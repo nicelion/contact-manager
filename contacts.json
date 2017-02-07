@@ -1,0 +1,61 @@
+[
+    {
+        "email": "billyg@microsoft.com",
+        "home": "425-555-1212",
+        "mobile": "425-555-3434",
+        "name": "Bill Gates"
+    },
+    {
+        "email": "jccooper@greenville.k12.sc.us",
+        "mobile": "864-555-1212",
+        "name": "Jon Cooper"
+    },
+    {
+        "address": "1600 Amphitheatre Parkway",
+        "city": "Mountain View",
+        "email": "sbrin@google.com",
+        "name": "Sergey Brin",
+        "state": "CA",
+        "zip": "94043"
+    },
+    {
+        "address": "",
+        "city": "",
+        "email": "markyzuck@facebook.org",
+        "home": "333-222-1111",
+        "mobile": "",
+        "name": "Mark Z.",
+        "state": "CA",
+        "zip": "32323"
+    },
+    {
+        "address": "120 E Ian Street",
+        "city": "Greenville",
+        "email": "ian@ian.com",
+        "home": "",
+        "mobile": "864-909-4893",
+        "name": "Ian",
+        "state": "SC",
+        "zip": "29615"
+    },
+    {
+        "address": "120 E Morgan Streen",
+        "city": "Morganville",
+        "email": "morgantheys@ian.com",
+        "home": "",
+        "mobile": "",
+        "name": "Morgan Theys",
+        "state": "Morgan",
+        "zip": "29342"
+    },
+    {
+        "address": "120 E Morgan Street",
+        "city": "Morganville",
+        "email": "Theys",
+        "home": "23401234",
+        "mobile": "482-293-2342",
+        "name": "Nancy",
+        "state": "Morgan",
+        "zip": "34352"
+    }
+]
